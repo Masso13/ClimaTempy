@@ -7,7 +7,6 @@ O intuito de criar essa Lib, é ajudar os Dev's na hora de criar algum projeto, 
 Como fonte de dados, usei de base o site <https://www.climatempo.com.br>, o qual verifiquei algumas mudanças na estrutura de requisições do site nos ultimos meses, podendo ser instável algumas vezes a Lib.\
 Vale ressaltar aqui que todos os parâmetros retornados do site irão vir em inglês.
 
----
 ## Como usar ?
 ```python
 from climatempy import ClimaTempo
